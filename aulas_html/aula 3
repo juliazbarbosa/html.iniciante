@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Lista de compras</h1>
+    <ul>
+        <li>pão de queijo</li>
+        <li>macarrão</li>
+        <li>morango</li>
+        <li>café solúvel</li>
+    </ul>
+
+    <h2>Grupos da copa do mundo</h2>
+    <br>
+    <h3>
+        Grupo A
+    </h3>
+    <ul>
+        <li>Qatar</li>
+        <li>Equador</li>
+        <li>Senegal</li>
+        <li>Holanda</li>
+    </ul>
+    <h3>
+        Grupo B
+    </h3>
+    <ul>
+        <li>Inglaterra</li>
+        <li>Irã</li>
+        <li>EUA</li>
+        <li>País de Gales</li>
+    </ul>
+    <h4>Top 10 países mais visitados do mundo</h4>
+    <br>
+    <ol>
+        <li>Brasil</li>
+        <li>Itália</li>
+        <li>Alemanha</li>
+        <li>França</li>
+    </ol>
+    <h5> Cardapio do Restaurante da Jú</h5>
+    <br>
+    <h6>Pratos principais</h6>
+    <ul>
+        <li>Coxinha de pinhão</li>
+        <li>Camarao ao molho pesto</li>
+    </ul>
+</body>
+</html>
