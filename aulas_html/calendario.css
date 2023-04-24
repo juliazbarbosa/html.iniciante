@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    width: 10px;
+    height: 10px;
+    
+}
+    th {
+        background-color: rgb(209, 248, 209);
+        font-weight: bold;
+        border: 2px solid rgb(132, 184, 102);
+        text-align: center;
+        padding: 15px
+     }
+
+   td {
+    border: 2px solid rgb(132, 184, 102);
+    text-align: center;
+    padding: 15px
+    }
+
+   title {
+    font-weight: bold;
+   }
+   
+   body {
+    font-family:'Roboto', sans-serif; ;
+   }
